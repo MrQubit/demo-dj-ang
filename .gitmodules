@@ -1,0 +1,6 @@
+[submodule "backend-dj"]
+	path = backend-dj
+	url = git@github.com:MrQubit/movie.git
+[submodule "frontend-ang"]
+	path = frontend-ang
+	url = git@github.com:MrQubit/frontend-demo-ang.git
